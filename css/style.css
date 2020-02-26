@@ -2278,7 +2278,7 @@ a {
 }
 
 .card3:before {
-  background: #ddd;
+  background: #000;
   width: 250%;
   height: 250%;
 }
@@ -2879,6 +2879,11 @@ Main components
   margin: 1em 0;
   line-height: 1.6;
 }
+
+.h1-color{
+	color: #ff0000;
+}
+
 .cd-timeline-content .cd-read-more {
   float: right;
   padding: .8em 1em;
